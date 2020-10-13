@@ -1,0 +1,60 @@
+輸入桿件大小令r1為地桿
+(輸入輸入桿r2運動範圍t2,t2f)
+輸入open-type or crossed-type:c>>confg
+輸入耦點(x,y)或輸出桿...或both:anl>>switch!!!
+輸入step increment:st
+
+
+比大小l,s,p,q
+Grashof?
+---?
+
+
+string confg;
+switch(c){
+    case 'c':
+      
+      break;
+    case 'o':
+      
+      break;
+    default:
+      
+      break;
+}
+if(c=='c')
+    confg="crossed-type configuration";
+    else
+    confg="open-type configuration";
+輸出:
+桿件                              :r1r2r3r4
+耦點(x,y)初始位置(輸出桿則無)     :
+輸入桿初始位置                    :
+step increment                    :
+
+Configuration                     :string confg
+Grashof type                      :string typ
+輸入桿的運動範圍                  :
+耦點or輸出桿的的運動分析(位置、速度、加速度等)
+
+
+
+abs(mycomplex) << "*e^i*" << std::arg(mycomplex)
+
+#include <iostream>
+#include <complex>
+#include <algorithm>
+#define pi 3.141592654
+using namespace std;
+int main ()
+{
+  
+  double a,b;
+  cin>>a;
+  cin>>b;
+  complex<double> mycomplex(a,b);
+  cout << "The absolute value of " << mycomplex << " is " << std::abs(mycomplex) << '\n';
+  
+    system("PAUSE");
+    return 0;
+}

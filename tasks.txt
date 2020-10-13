@@ -1,0 +1,6 @@
+﻿耦點位置，速度，加速度分析
+
+double x,y,vx,vy,ax,ay;
+
+
+sqrt(vx*vx+vy*vy);atan(vy/vx);atan(ay/ax);
