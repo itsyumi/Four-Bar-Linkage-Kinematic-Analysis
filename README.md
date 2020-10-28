@@ -16,5 +16,3 @@ Four-bar Linkage Kinematic Analysis Using Dev-C++
 
 
 ![](fig1a_1b.PNG)
-
-![](數值分析筆記.pdf)
