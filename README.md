@@ -1,6 +1,6 @@
 # Four-bar-Linkage-Kinematic-Analysis
 Four-bar Linkage Kinematic Analysis Using Dev-C++
-## 
+## Description
 讓使用者輸入四支桿件的長度及分析的標的，此標的即指所求的分析結果，例如耦點的運動(位置、速度、加速度等)或輸出桿的運動(角位置、角速度、角加速度等)。
 
 
