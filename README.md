@@ -11,10 +11,10 @@ configuration)電腦程式程式必須能判別四連桿組的類型。之後, �
 下一步的輸入。之後,讓使用者輸入欲分析的輸入桿運動位置 step increment(每步的增量)、角
 速度與角加速度。
 
-程式執行將呈現下列結果:
-(1) 四連桿組類型判別:crank-rocker, double crank, double rocker, triple rocker 等 
-(2) 輸入桿的運動範圍  
-(3) 耦點或輸出桿的的運動分析結果(位置、速度、加速度等)  
-(4) 運動分析結果的呈現:monitor 上的呈現(曲線、動態模擬) 與/或自動儲存成一個檔案  
+程式執行將呈現下列結果:  
+(1) 四連桿組類型判別:crank-rocker, double crank, double rocker, triple rocker 等   
+(2) 輸入桿的運動範圍    
+(3) 耦點或輸出桿的的運動分析結果(位置、速度、加速度等)    
+(4) 運動分析結果的呈現:monitor 上的呈現(曲線、動態模擬) 與/或自動儲存成一個檔案    
 
 ![](fig1a_1b.PNG)
